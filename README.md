@@ -1,7 +1,7 @@
 # QTHTM_WindowsServer
-# Dự án: Xây dựng và Quản trị Hệ thống mạng Doanh nghiệp với Windows Server
+# Bài tập: Xây dựng và Quản trị Hệ thống mạng Doanh nghiệp với Windows Server
 
-Đây là dự án học tập nhằm mô phỏng việc triển khai và quản lý một hệ thống mạng hoàn chỉnh cho một doanh nghiệp nhỏ với 2 phòng ban, sử dụng các dịch vụ cốt lõi trên hệ điều hành Windows Server.
+Đây là bài tập học tập nhằm mô phỏng việc triển khai và quản lý một hệ thống mạng hoàn chỉnh cho một doanh nghiệp nhỏ với 2 phòng ban, sử dụng các dịch vụ cốt lõi trên hệ điều hành Windows Server.
 
 ---
 
@@ -88,4 +88,4 @@ Hệ thống bao gồm một máy chủ Windows Server đóng vai trò Domain Co
 
 ---
 
-Dự án này đã giúp tôi thực hành và nắm vững các kỹ năng quan trọng trong việc quản trị một hệ thống Windows Server từ khâu triển khai ban đầu đến vận hành và bảo mật.
+bài tập này đã giúp tôi thực hành và nắm vững các kỹ năng quan trọng trong việc quản trị một hệ thống Windows Server từ khâu triển khai ban đầu đến vận hành và bảo mật.
